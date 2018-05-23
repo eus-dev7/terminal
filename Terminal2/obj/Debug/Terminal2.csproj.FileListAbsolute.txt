@@ -1,0 +1,15 @@
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\bin\Debug\Terminal2.exe.config
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.Contraseña.resources
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.Principal.resources
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.Properties.Resources.resources
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.VBoleto.resources
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.csproj.GenerateResource.Cache
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\bin\Debug\Terminal2.exe
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\bin\Debug\Terminal2.pdb
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\bin\Debug\MySql.Data.dll
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.exe
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.pdb
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.csprojResolveAssemblyReference.cache
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.BDolblepiso.resources
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.BLeito.resources
+C:\Users\MELO\Desktop\Proyecto BD\Terminal2\Terminal2\obj\Debug\Terminal2.BNormal.resources
